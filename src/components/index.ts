@@ -1,3 +1,23 @@
-// make sure you import all components into this file
+export * from './Button';
+export * from './Checkbox'
+export * from './Select'
+export * from './Input'
+export * from './Switch'
+export * from './TextField'
+export * from './Box'
+export * from './Grid'
+export * from './Card'
+export * from './DatePicker'
+export * from './Typography'
+export * from './Modal'
+export * from './Slider'
+export * from './Loader'
+export * from './Tooltip'
+export * from './Popover'
+export * from './Notification'
+export * from './Pagination'
+export * from './Table'
+export * from './Container'
+export * from './Form'
 
-export * from './Example';
+export * from './Radio'
